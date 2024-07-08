@@ -1,7 +1,5 @@
 # REACT SOCIAL MEDIA APP
 
-#### Video Demo:  <https://youtu.be/0QltvW08E4o?si=vpDLD-SOrnZjmfRN>
-
 #### Description:
 
 ## Social Media App (React, JSX, Firebase)<br>
