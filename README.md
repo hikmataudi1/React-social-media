@@ -2,7 +2,7 @@
 
 #### Description:
 
-## Social Media App (React, JSX, Firebase)<br>
+## Social Media App (React, TSX, Firebase)<br>
 This project is a full-fledged social media application built with React, TypeScript, and Firebase. TypeScript provides static typing for enhanced code safety and maintainability, while Firebase offers a comprehensive backend solution with robust authentication and a scalable NoSQL database.
 <br><br>
 <b>Features :</b><br>
